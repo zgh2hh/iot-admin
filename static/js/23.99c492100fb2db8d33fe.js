@@ -1,0 +1,2 @@
+webpackJsonp([23],{sRXa:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  事件规则\n")])},staticRenderFns:[]},s=t("VU/8")({name:"eventRules",data:function(){return{}}},r,!1,null,null,null);n.default=s.exports}});
+//# sourceMappingURL=23.99c492100fb2db8d33fe.js.map

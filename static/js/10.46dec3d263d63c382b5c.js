@@ -1,0 +1,2 @@
+webpackJsonp([10],{JVFg:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  资源清单\n")])},staticRenderFns:[]};var a=n("VU/8")({name:"resourceList",data:function(){return{}}},r,!1,function(e){n("ql2e")},"data-v-6608a96a",null);t.default=a.exports},ql2e:function(e,t){}});
+//# sourceMappingURL=10.46dec3d263d63c382b5c.js.map

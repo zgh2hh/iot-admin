@@ -1,0 +1,2 @@
+webpackJsonp([12],{"3s99":function(e,t){},RdoZ:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  数据模式\n")])},staticRenderFns:[]};var r=n("VU/8")({name:"dataModel",data:function(){return{}}},a,!1,function(e){n("3s99")},"data-v-532b5460",null);t.default=r.exports}});
+//# sourceMappingURL=12.507d15a094eca2a22f83.js.map

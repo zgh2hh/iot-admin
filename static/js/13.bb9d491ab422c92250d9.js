@@ -1,0 +1,2 @@
+webpackJsonp([13],{aNhb:function(e,n){},uHwu:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  讨论组\n")])},staticRenderFns:[]};var r=t("VU/8")({name:"discussGroup",data:function(){return{}}},a,!1,function(e){t("aNhb")},"data-v-2acd772c",null);n.default=r.exports}});
+//# sourceMappingURL=13.bb9d491ab422c92250d9.js.map

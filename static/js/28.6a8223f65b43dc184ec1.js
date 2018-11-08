@@ -1,0 +1,2 @@
+webpackJsonp([28],{T3TT:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("router-view")},staticRenderFns:[]},l=t("VU/8")({name:"deviceMgrIndex"},r,!1,null,null,null);n.default=l.exports}});
+//# sourceMappingURL=28.6a8223f65b43dc184ec1.js.map
